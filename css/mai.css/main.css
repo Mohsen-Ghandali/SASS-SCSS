@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+  body > header {
+    width: 100%; }
+    body > header > input {
+      display: none; }
+    body > header > label {
+      display: block;
+      width: 100%;
+      background-color: antiquewhite; }
+      body > header > label > img {
+        margin: 5px 0 0px 5px; }
+    body > header > nav {
+      width: 100%;
+      background-color: black; }
